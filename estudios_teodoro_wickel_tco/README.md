@@ -13,3 +13,13 @@ Se registró la participación de 6 adultos mayores, 4 damas y 2 varones con eda
 - El tamaño muestral y el tipo de muestreo 
 - Un periodo de ingreso indeterminado de participantes
 - un vacío de mediciones durante gran parte del mes de octubre
+
+# Resumen ejecutivo de los resultados
+
+
+
+### Apéndice
+El repositorio considera los siguientes productos desarrollados:
+
+"base datos Teodoro Wickel (1-8).pbix": archivo de Power BI con el análisis y comentarios.
+"Taller adulto cft 2022 - Datos anonimos.csv": Base de datos con usuarios codificados.
