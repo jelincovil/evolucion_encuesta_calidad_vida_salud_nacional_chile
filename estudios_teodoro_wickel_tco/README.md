@@ -22,7 +22,11 @@ Se registró la participación de 6 adultos mayores, 4 damas y 2 varones con eda
 
 # Resumen ejecutivo de los resultados
 
+![plot](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/explicativas.png)
 
+![plot](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/icc.png)
+
+![plot](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/pam.png)
 
 ### Apéndice
 El repositorio considera los siguientes productos desarrollados:
