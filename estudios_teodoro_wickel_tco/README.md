@@ -1,10 +1,11 @@
 
 <img align="left" width="80" height="80" src="https://twk.cl/normas-graficas/marca-twk/logo-twk-azul-lineal.jpg" alt="Resume application project app icon">
-** Autores:** 
-Jaime Lincovil [Linkedin](https://cl.linkedin.com/in/jaime-enrique-lincovil-curivil-973a9b186)
-Matias Infante [Linkedin](https://cl.linkedin.com/in/minfanteg)
 
 # Programa Adulto Mayor Instituto Teodoro Wickel (https://twk.cl/)
+
+** Autores:** 
+- Jaime Lincovil [Linkedin](https://cl.linkedin.com/in/jaime-enrique-lincovil-curivil-973a9b186)
+- Matias Infante [Linkedin](https://cl.linkedin.com/in/minfanteg)
 
 El programa consiste en una intervención basada en ejercicio físico orientada a mejorar indicadores de salud de un grupo de adultos mayores voluntarios durante los meses de septiembre a diciembre de 2022, a cargo de titulados, docentes y estudiantes de la carrera de TNS Preparación Física y TNS en Enfermería del CFT Teodoro Wickel, sede Temuco.
  
