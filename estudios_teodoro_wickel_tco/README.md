@@ -1,4 +1,6 @@
 
+<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/akarsh/akarsh-seggemu-resume/master/akarsh%20seggemu%20resume/Assets/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png" alt="Resume application project app icon">
+
 # Programa Adulto Mayor Instituto Teodoro Wickel (https://twk.cl/)
 
 El programa consiste en una intervención basada en ejercicio físico orientada a mejorar indicadores de salud de un grupo de adultos mayores voluntarios durante los meses de septiembre a diciembre de 2022, a cargo de titulados, docentes y estudiantes de la carrera de TNS Preparación Física y TNS en Enfermería del CFT Teodoro Wickel, sede Temuco.
