@@ -28,6 +28,17 @@ Se registró la participación de 6 adultos mayores, 4 damas y 2 varones con eda
 
 ![plot](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/pam.png)
 
+# Propuesta de Carta Gantt
+En este trabajo proponemos un desarrollo de las actividades de el desarrolo del experimento en formato de carta Gantt en el siguiente link:
+[Carta Gantt 2023](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/Carta%20Gant%20Teodoro%20Wickel.xlsx)
+
+# Propuesta de concepcion metodologica.
+
+Tipo de estudio: longuitudinal.
+Objetivo: Un estudio observacional NO aleatorizado.
+
+(trabajo en desarrollo)
+
 ### Apéndice
 El repositorio considera los siguientes productos desarrollados:
 
