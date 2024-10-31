@@ -36,9 +36,10 @@ En este trabajo proponemos un desarrollo de las actividades de el desarrolo del 
 
 Tipo de estudio: longuitudinal.
 Objetivo: Un estudio observacional NO aleatorizado.
+
 ---
 
-### Planificación de un Estudio Clínico de un Año para el Programa de Intervención Basada en Ejercicio Físico para Adultos Mayores 2023
+# Planificación de un Estudio Clínico de un Año para el Programa de Intervención Basada en Ejercicio Físico para Adultos Mayores 2023
 
 #### Título del Estudio:
 "Evaluación de la Efectividad de una Intervención Basada en Ejercicio Físico en Indicadores de Salud en Adultos Mayores: Un Estudio Clínico de un Año"
