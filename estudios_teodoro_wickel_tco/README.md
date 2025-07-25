@@ -1,7 +1,7 @@
 
 <img align="left" width="80" height="80" src="https://twk.cl/normas-graficas/marca-twk/logo-twk-azul-lineal.jpg" alt="Resume application project app icon">
 
-# Programa Adulto Mayor Instituto Teodoro Wickel 2021 (https://twk.cl/)
+# **Efecto causal del Programa Adulto Mayor Instituto Teodoro Wickel 2021** (https://twk.cl/)
 
 **Autores:** 
 - Dr. Jaime Lincovil [Linkedin](https://cl.linkedin.com/in/jaime-enrique-lincovil-curivil-973a9b186)
