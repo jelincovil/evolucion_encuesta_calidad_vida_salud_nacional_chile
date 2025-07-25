@@ -13,7 +13,7 @@ Se registró la participación de 6 adultos mayores, 4 damas y 2 varones con eda
 
 ## Objetivo de análisis: 
 - Comparar los niveles de Presión Arterial e Índice Cintura- Cadera respecto a los parámetros saludables para la edad.
-- Analizar los cambios en PA e ICC durante el programa
+- Analizar el **efecto causal** en PA e ICC causado por el programa (medido atraves del tiempo).
 
 ## Desafíos:
 - El tamaño muestral y el tipo de muestreo 
@@ -41,87 +41,19 @@ Objetivo: Un estudio observacional NO aleatorizado.
 
 # Planificación de un Estudio Clínico de un Año para el Programa de Intervención Basada en Ejercicio Físico para Adultos Mayores 2023
 
-#### Título del Estudio:
-"Evaluación de la Efectividad de una Intervención Basada en Ejercicio Físico en Indicadores de Salud en Adultos Mayores: Un Estudio Clínico de un Año"
-
-#### Autores:
-- Dr. Jaime Lincovil (LinkedIn)
-- Mg. Matias Infante (LinkedIn)
-
-#### Resumen:
-Este estudio tiene como objetivo evaluar la efectividad de una intervención basada en ejercicio físico en la mejora de indicadores de salud en un grupo de adultos mayores voluntarios durante un período de un año. El estudio se centrará en la comparación de los niveles de presión arterial (PA) e índice cintura-cadera (ICC) respecto a los parámetros saludables para la edad, así como en el análisis de los cambios en estos indicadores a lo largo del programa.
-
-#### Introducción:
-La población de adultos mayores enfrenta desafíos significativos en términos de salud y bienestar. La intervención basada en ejercicio físico ha demostrado ser una estrategia efectiva para mejorar indicadores de salud en esta población. Este estudio busca extender y profundizar el conocimiento sobre los beneficios del ejercicio físico en adultos mayores a través de un estudio clínico de un año.
-
-#### Objetivos:
-- **Objetivo General:** Evaluar la efectividad de una intervención basada en ejercicio físico en la mejora de indicadores de salud en adultos mayores.
-- **Objetivos Específicos:**
-  - Comparar los niveles de PA e ICC respecto a los parámetros saludables para la edad.
-  - Analizar los cambios en PA e ICC durante el programa.
-  - Evaluar la aceptación y adherencia de los participantes al programa.
-
 #### Metodología:
 
 ##### Diseño del Estudio:
-- **Tipo de Estudio:** Estudio clínico prospectivo longitudinal.
-- **Duración:** 12 meses (enero a diciembre de 2023).
-- **Población:** Adultos mayores voluntarios (≥ 65 años) de la comunidad de Temuco.
-- **Muestra:** Se seleccionarán 30 participantes (15 mujeres y 15 hombres) mediante muestreo aleatorio simple.
+[cite_start]El estudio se plantea como un **Estudio Clínico Prospectivo Longitudinal**[cite: 1]. [cite_start]Tendrá una duración de 12 meses, abarcando desde enero hasta diciembre de 2023[cite: 1]. [cite_start]La población objetivo son adultos mayores voluntarios de 65 años o más, residentes en la comunidad de Temuco[cite: 1]. [cite_start]Se ha proyectado una muestra de 30 participantes, compuesta equitativamente por 15 mujeres y 15 hombres, los cuales serán seleccionados mediante **muestreo aleatorio simple**[cite: 1].
 
 ##### Intervención:
-- **Programa de Ejercicio Físico:**
-  - **Duración:** 1 hora, 3 veces por semana.
-  - **Contenido:** Combinación de ejercicios aeróbicos, de fuerza y de flexibilidad.
-  - **Supervisión:** Realizado por TNS Preparación Física, asistido por estudiantes y docentes de TNS Enfermería.
+[cite_start]El programa de ejercicio físico consiste en sesiones de 1 hora, realizadas 3 veces por semana[cite: 1]. [cite_start]El contenido de estas sesiones combinará ejercicios aeróbicos, de fuerza y de flexibilidad[cite: 1]. [cite_start]La supervisión estará a cargo de un TNS en Preparación Física, con el apoyo ocasional de estudiantes y docentes de TNS en Enfermería[cite: 1].
 
 ##### Recogida de Datos:
-- **Variables Principales:**
-  - Presión arterial (PA)
-  - Índice cintura-cadera (ICC)
-  - Frecuencia cardíaca (FC)
-  - Peso y talla
-- **Instrumentos de Medición:**
-  - Esfigmomanómetro digital para PA y FC.
-  - Cinta métrica para medición de perímetros.
-  - Báscula y estadiómetro para peso y talla.
-- **Frecuencia de Medición:**
-  - Basal (inicio del estudio).
-  - Mensual durante los primeros 6 meses.
-  - Trimestral durante los últimos 6 meses.
+[cite_start]Las variables principales a medir incluyen Presión Arterial (PA), Índice Cintura-Cadera (ICC), Frecuencia Cardíaca (FC), y Peso y Talla[cite: 1]. [cite_start]Para las mediciones, se utilizarán instrumentos como esfigmomanómetros digitales para PA y FC, cinta métrica para perímetros, y báscula y estadiómetro para peso y talla[cite: 1]. [cite_start]La frecuencia de medición será basal (al inicio del estudio), mensual durante los primeros 6 meses, y trimestral durante los últimos 6 meses[cite: 1].
 
 ##### Aceptación de Términos por los Participantes:
-- **Consentimiento Informado:** Se proporcionará un formulario de consentimiento informado detallado, explicando los objetivos, procedimientos, beneficios y riesgos del estudio.
-- **Derechos de los Participantes:** Se garantizará la confidencialidad de los datos y el derecho a retirarse del estudio en cualquier momento sin penalización.
+[cite_start]Se obtendrá un **Consentimiento Informado** detallado de cada participante, explicando los objetivos, procedimientos, beneficios y riesgos del estudio[cite: 1]. [cite_start]Se asegurará la confidencialidad de los datos y el derecho de los participantes a retirarse del estudio en cualquier momento sin penalización[cite: 1].
 
 ##### Evaluación Continua del Proceso:
-- **Seguimiento de Adherencia:** Se registrará la asistencia a las sesiones de ejercicio y se realizarán entrevistas semanales para evaluar la satisfacción y los desafíos percibidos por los participantes.
-- **Análisis de Datos:** Se utilizarán pruebas estadísticas paramétricas y no paramétricas para analizar los cambios en las variables principales.
-- **Revisión Periódica:** Se realizarán reuniones mensuales con el equipo de investigación para revisar el progreso del estudio y ajustar el protocolo si es necesario.
-
-#### Resultados Esperados:
-Se espera observar una disminución significativa en los niveles de PA y una mejora en el ICC en los participantes del programa de ejercicio físico, en comparación con los parámetros saludables para la edad. Además, se espera una alta aceptación y adherencia de los participantes al programa.
-
-#### Discusión:
-Los resultados de este estudio contribuirán al conocimiento sobre la efectividad de las intervenciones basadas en ejercicio físico en adultos mayores, proporcionando evidencia empírica para futuras políticas de salud y programas de intervención.
-
-#### Conclusiones:
-Este estudio clínico de un año proporcionará información valiosa sobre los beneficios del ejercicio físico en la mejora de indicadores de salud en adultos mayores, destacando la importancia de programas de intervención continuos y supervisados.
-
-#### Referencias:
-- 1 Nelson, M. E., Rejeski, W. J., Blair, S. N., Duncan, P. W., Judge, J. O., King, A. C., Macera, C. A., & Castaneda-Sceppa, C. (2007). Physical activity and public health in older adults: Recommendation from the American College of Sports Medicine and the American Heart Association. Circulation, 116(9), 1094-1105.
-- 2 World Health Organization. (2019). Global action plan on physical activity 2018-2030: More active people for a healthier world. World Health Organization.
-
-#### Anexos:
-- Formulario de consentimiento informado.
-- Protocolo detallado de la intervención.
-- Instrumentos de medición y registro de datos.
-
-Este estudio clínico de un año proporcionará una base sólida para la implementación de programas de intervención basada en ejercicio físico en la población de adultos mayores, mejorando así su calidad de vida y bienestar.
-
-
-### Apéndice
-El repositorio considera los siguientes productos desarrollados:
-
-"base datos Teodoro Wickel (1-8).pbix": archivo de Power BI con el análisis y comentarios.
-"Taller adulto cft 2022 - Datos anonimos.csv": Base de datos con usuarios codificados.
+[cite_start]Se realizará un seguimiento de la adherencia registrando la asistencia a las sesiones de ejercicio y llevando a cabo entrevistas semanales para evaluar la satisfacción y los desafíos percibidos[cite: 1]. [cite_start]El análisis de datos empleará pruebas estadísticas paramétricas y no paramétricas para analizar los cambios en las variables principales[cite: 1]. [cite_start]Se han programado reuniones mensuales con el equipo de investigación para revisar el progreso y ajustar el protocolo si es necesario[cite: 1].
