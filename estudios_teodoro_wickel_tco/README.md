@@ -37,23 +37,63 @@ En este trabajo proponemos un desarrollo de las actividades de el desarrolo del 
 Tipo de estudio: longuitudinal.
 Objetivo: Un estudio observacional NO aleatorizado.
 
+Claro. A continuación, transformo el texto proporcionado en el diseño de un **estudio causal observacional serio**, utilizando una metodología más robusta para establecer causalidad. La principal debilidad del plan original es la ausencia de un grupo de control, lo que impide atribuir los cambios observados únicamente a la intervención.
+
+Para solucionar esto, el diseño se reestructura como un **estudio cuasi-experimental de Diferencias en Diferencias (DiD)**.
+
+***
+
+### **Plan de Estudio Causal Observacional del Programa de Ejercicio Físico en Adultos Mayores**
+
+Este documento detalla el diseño de un estudio causal observacional para estimar el efecto del programa de intervención basada en ejercicio físico sobre indicadores de salud en adultos mayores, utilizando un enfoque de Diferencias en Diferencias (DiD).
+
 ---
 
-# Planificación de un Estudio Clínico de un Año para el Programa de Intervención Basada en Ejercicio Físico para Adultos Mayores 2023
+### **1. Objetivo Causal**
 
-#### Metodología:
+Estimar el **efecto causal** promedio del programa de ejercicio físico en la mejora de la Presión Arterial (PA), el Índice Cintura-Cadera (ICC) y la Frecuencia Cardíaca (FC) en adultos mayores de la comunidad de Temuco.
 
-##### Diseño del Estudio:
-[cite_start]El estudio se plantea como un **Estudio Clínico Prospectivo Longitudinal**[cite: 1]. [cite_start]Tendrá una duración de 12 meses, abarcando desde enero hasta diciembre de 2023[cite: 1]. [cite_start]La población objetivo son adultos mayores voluntarios de 65 años o más, residentes en la comunidad de Temuco[cite: 1]. [cite_start]Se ha proyectado una muestra de 30 participantes, compuesta equitativamente por 15 mujeres y 15 hombres, los cuales serán seleccionados mediante **muestreo aleatorio simple**[cite: 1].
+---
 
-##### Intervención:
-[cite_start]El programa de ejercicio físico consiste en sesiones de 1 hora, realizadas 3 veces por semana[cite: 1]. [cite_start]El contenido de estas sesiones combinará ejercicios aeróbicos, de fuerza y de flexibilidad[cite: 1]. [cite_start]La supervisión estará a cargo de un TNS en Preparación Física, con el apoyo ocasional de estudiantes y docentes de TNS en Enfermería[cite: 1].
+### **2. Metodología**
 
-##### Recogida de Datos:
-[cite_start]Las variables principales a medir incluyen Presión Arterial (PA), Índice Cintura-Cadera (ICC), Frecuencia Cardíaca (FC), y Peso y Talla[cite: 1]. [cite_start]Para las mediciones, se utilizarán instrumentos como esfigmomanómetros digitales para PA y FC, cinta métrica para perímetros, y báscula y estadiómetro para peso y talla[cite: 1]. [cite_start]La frecuencia de medición será basal (al inicio del estudio), mensual durante los primeros 6 meses, y trimestral durante los últimos 6 meses[cite: 1].
+#### **Diseño del Estudio**
+Se empleará un **diseño cuasi-experimental prospectivo de Diferencias en Diferencias (DiD)**. Este diseño fortalece la inferencia causal al comparar el cambio en los resultados de salud a lo largo del tiempo entre un grupo que recibe la intervención y un grupo de control comparable que no la recibe. El estudio tendrá una duración de 12 meses (enero-diciembre 2023).
 
-##### Aceptación de Términos por los Participantes:
-[cite_start]Se obtendrá un **Consentimiento Informado** detallado de cada participante, explicando los objetivos, procedimientos, beneficios y riesgos del estudio[cite: 1]. [cite_start]Se asegurará la confidencialidad de los datos y el derecho de los participantes a retirarse del estudio en cualquier momento sin penalización[cite: 1].
+#### **Participantes y Grupos**
+Se reclutarán dos grupos de la comunidad de Temuco, compuestos por adultos mayores voluntarios de 65 años o más:
 
-##### Evaluación Continua del Proceso:
-[cite_start]Se realizará un seguimiento de la adherencia registrando la asistencia a las sesiones de ejercicio y llevando a cabo entrevistas semanales para evaluar la satisfacción y los desafíos percibidos[cite: 1]. [cite_start]El análisis de datos empleará pruebas estadísticas paramétricas y no paramétricas para analizar los cambios en las variables principales[cite: 1]. [cite_start]Se han programado reuniones mensuales con el equipo de investigación para revisar el progreso y ajustar el protocolo si es necesario[cite: 1].
+* **Grupo de Tratamiento (n=30):** Compuesto por 15 mujeres y 15 hombres seleccionados de un centro comunitario. Este grupo recibirá la intervención de ejercicio físico.
+* **Grupo de Control (n=30):** Compuesto por 15 mujeres y 15 hombres con características demográficas y de salud basal similares a las del grupo de tratamiento. Serán reclutados de un centro comunitario cercano que no ofrezca un programa de ejercicio similar. Este grupo no recibirá la intervención y continuará con sus actividades habituales.
+
+#### **Intervención**
+Exclusivamente para el **Grupo de Tratamiento**, el programa consiste en sesiones de ejercicio físico de 1 hora, 3 veces por semana, combinando componentes aeróbicos, de fuerza y flexibilidad, bajo supervisión profesional.
+
+#### **Recogida de Datos**
+Las variables (PA, ICC, FC, Peso, Talla) y los instrumentos serán los mismos para **ambos grupos**. La frecuencia de medición será idéntica y simultánea para garantizar la comparabilidad:
+* **Medición Basal (Pre-Intervención):** Al inicio del estudio (enero).
+* **Mediciones de Seguimiento (Post-Intervención):** Mensual durante los primeros 6 meses y trimestral durante los últimos 6 meses.
+
+---
+
+### **3. Análisis de Datos para Inferencia Causal**
+
+El análisis se centrará en el estimador de Diferencias en Diferencias, que calcula el efecto del tratamiento restando el cambio en el grupo de control del cambio en el grupo de tratamiento.
+
+El efecto causal ($\beta_3$) se estimará mediante el siguiente modelo de regresión:
+
+$$Y_{it} = \beta_0 + \beta_1 \cdot \text{Tratamiento}_i + \beta_2 \cdot \text{Tiempo}_t + \beta_3 \cdot (\text{Tratamiento}_i \times \text{Tiempo}_t) + \epsilon_{it}$$
+
+* $Y_{it}$: Resultado de salud (ej. PA) para el individuo *i* en el tiempo *t*.
+* $\text{Tratamiento}_i$: Variable binaria (1 si pertenece al grupo de tratamiento, 0 si es del control).
+* $\text{Tiempo}_t$: Variable binaria (0 para la medición basal, 1 para las de seguimiento).
+* $\text{Tratamiento}_i \times \text{Tiempo}_t$: El término de interacción cuyo coeficiente, **$\beta_3$**, representa el **efecto causal estimado** de la intervención.
+
+#### **Supuesto Clave: Tendencias Paralelas**
+La validez de este diseño depende del **supuesto de tendencias paralelas**. Esto significa que, en ausencia de la intervención, la trayectoria de los resultados de salud habría sido la misma para ambos grupos. Aunque no se puede probar directamente, se evaluará visualmente comparando los cambios en otras variables no afectadas por la intervención y se argumentará teóricamente en base a la similitud de los grupos al inicio.
+
+---
+
+### **4. Consideraciones Éticas y de Proceso**
+
+El **Consentimiento Informado** se obtendrá de todos los participantes de ambos grupos. Se mantendrá el seguimiento de la adherencia para el grupo de tratamiento y se registrarán posibles cambios de comportamiento (ej. inicio de ejercicio por su cuenta) en el grupo de control. Las reuniones mensuales del equipo de investigación serán cruciales para monitorear la integridad del diseño y evitar la "contaminación" entre grupos.
